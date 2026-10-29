@@ -64,5 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-BioGaia is a company surfaced via the API Evangelist harvest backlog (source: swedish-healthcare) and added to the network as a stub for full-pipeline profiling.
-- https://www.biogaia.com/
+BioGaia is a Swedish healthcare company specializing in probiotic research and products. It develops clinically studied probiotic strains for infants, children, and adults, focusing on gut health, immunity, and oral health. The company operates globally, offering products through retail and healthcare professional channels, and provides scientific resources and information on its website.
+
+**Areas:** Probiotics · Healthcare · Sweden · GutHealth · ConsumerProducts
+
+## BioGaia on APIs.io
+
+Everything profiled for BioGaia is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/biogaia/](https://apis.io/providers/biogaia/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Biogaia API](https://apis.io/apis/biogaia/biogaia-api/) — Biogaia provides probiotic products; their developer portal is not publicly documented.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Biogaia Domain Security](https://apis.io/security/biogaia/biogaia-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.biogaia.com/)
+- [Documentation](https://www.biogaia.com/pages/science-and-research)
+- [Terms of service](https://www.biogaia.com/policies/terms-of-service)
+- [Privacy policy](https://www.biogaia.com/policies/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 15.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 34.2 |
+
+**Agent readiness 4.5** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | platform (partial credit) |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/biogaia/](https://apis.io/providers/biogaia/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for BioGaia: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/biogaia/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
